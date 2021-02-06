@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>javascipt</title>
+</head>
+<body>
+ <h1 id="tout">LE DOM HTML</h1>
+
+ <div>
+  <P class="para"><a href="www.vasi.com">click me</a>je suis un paragraphe</P>
+  <p>je suis un deuxieme paragraphe </p>
+</div>
+<body>
+	<script type="text/javascript">
+
+      var p = document.querySelector("p");
+
+       p.addEventListener("mouseover",fonction);
+       p.addEventListener("mouseout",fonction1);
+
+        function fonction(){
+        	this.innerHTML="je me suis changer";
+        	this.style.color="green";
+        }
+         function fonction1(){
+        	this.innerHTML='<P class="para"><a href="www.vasi.com">click me</a>je suis un paragraphe</P>';
+        	this.style.color="";
+    }
+
+		// var date= new Date();
+		// var dy= date.getFullYear();
+		// var dmo= date.getMonth();
+		// var dday=date.getDay();
+		// var ddate= date.getDate();
+		// var dh = date.getHours();
+		// var dmin= date.getMinutes();
+		// var ds  = date.getSeconds();
+
+		//  var mois=["janvier", "fevrier", "mars", "avril", "mai","juin","juillet","août","septembre","octobre", "novembre", "decembre"];
+		//  var jour =["dimanche","lundi", "mardi", "mercredi", "jeudi","vendredi", "samedi"];
+
+		// alert("le "+jour[dday]+" "+ddate+" "+mois[dmo]+" "+dy);
+
+
+
+	</script>
+</body>
+</html>

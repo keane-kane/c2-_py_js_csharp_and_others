@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605385788 source:c:\doc\projet_c++\optimiser\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"optimiserfunc.h"
+
+1605396651 c:\doc\projet_c++\optimiser\optimiserfunc.h
+	<string.h>
+

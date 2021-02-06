@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1605122674 source:c:\doc\projet_c++\threads\main.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"c11threads.h"
+	<pthread.h>
+	<unistd.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"c11threads.h"
+
+1605037393 c:\doc\projet_c++\threads\c11threads.h
+	<time.h>
+	<errno.h>
+	<pthread.h>
+	<sched.h>
+	<sys/time.h>
+

@@ -1,0 +1,11 @@
+C:\Mes_tp\tp_Csharp\exercice7\bin\Debug\netcoreapp3.1\exercice7.exe
+C:\Mes_tp\tp_Csharp\exercice7\bin\Debug\netcoreapp3.1\exercice7.deps.json
+C:\Mes_tp\tp_Csharp\exercice7\bin\Debug\netcoreapp3.1\exercice7.runtimeconfig.json
+C:\Mes_tp\tp_Csharp\exercice7\bin\Debug\netcoreapp3.1\exercice7.runtimeconfig.dev.json
+C:\Mes_tp\tp_Csharp\exercice7\bin\Debug\netcoreapp3.1\exercice7.dll
+C:\Mes_tp\tp_Csharp\exercice7\bin\Debug\netcoreapp3.1\exercice7.pdb
+C:\Mes_tp\tp_Csharp\exercice7\obj\Debug\netcoreapp3.1\exercice7.csprojAssemblyReference.cache
+C:\Mes_tp\tp_Csharp\exercice7\obj\Debug\netcoreapp3.1\exercice7.AssemblyInfoInputs.cache
+C:\Mes_tp\tp_Csharp\exercice7\obj\Debug\netcoreapp3.1\exercice7.AssemblyInfo.cs
+C:\Mes_tp\tp_Csharp\exercice7\obj\Debug\netcoreapp3.1\exercice7.dll
+C:\Mes_tp\tp_Csharp\exercice7\obj\Debug\netcoreapp3.1\exercice7.pdb

@@ -1,0 +1,662 @@
+﻿The breadcrumb trailing the project window shows:
+The file path of the selected asset
+
+Drag
+In a Rigidbody component, this determines the air resistance from forces affecting the GameObject
+
+Reverb Zones
+To simulate the echoing and distortion of type of sound environment such as cave, arena, or forest, which of following audio components would be the best option to use?
+
+Art Director
+At a game studio, the person is responsible for ensuring the overall look and feel is consistent
+
+Non-Disclosure Agreement
+Possible release information about work at a studio is often governed by this kind of legal contract
+
+Identify the UI element that is used to modify the icon size in the Project View Window
+The slider in the lower right corner of the Project Window
+
+Saving a scene saves:
+The current placement of objects in the scene and hierarchy
+
+Normal
+This material property causes polygons to appear and light as if they had microsurface detail:
+
+Use Gravity
+In a Rigidbody, this enables objects to fall:
+
+The role of a raycast is to:
+Locate colliders along the path of a ray
+
+Hierarchy Window
+Window that allows the parenting of GameObjects:
+
+Selecting Generate Lightmap UVs in the Import Settings of a Model:
+Creates an additional set of UV coordinates of Lightmap data
+
+Light Probes
+Sample baked lighting at specific points in a scene
+
+Lightmaps
+Store lighting data that has been precalculated
+
+Dope Sheet
+This view in the animation window allows multiple objects' keys to be shown on horizontal tracks:
+
+Animation Record
+The play controls shown in red indicate the Unity Editor is in this mode:
+
+Animation Clips
+How animations are stored in the Unity project
+
+Baking
+The process of creating a NavMesh from level geometry marked as Navigation Static is called:
+
+...avoid collisions with other Nav Mesh Agents and geometry
+Obstacle avoidance is how Nav Mesh Agents...
+
+A scene starts
+The Awake method is called when...
+======
+
+Computer-controlled
+In game design, non-player characters are:
+
+Color Over Lifetime
+In particle system of smoke, which property is used to change from dense black, to semi-transparent gray, and finally white?
+
+Volume
+Which emit from option allows particles to originate from anywhere within the emitter geometry?
+
+GetComponent
+Which method gets a reference to a component on a GameObject?
+
+Canvas Scaler
+Which component allows the canvas to resize with a display?
+
+Area Light
+Retangular light used for baking only; governed by width and height
+
+Light Baking
+What is called when you pre-calculate lighting and shading instead of doing it real time
+
+Directional Light
+This is an infinitely wide parallel light source, which is typically used to simulate sunlight
+
+Rigidbody
+If a game object has this component it will fall with gravity
+
+Concept Art
+Provides a unifying point for art direction
+
+Game Mechanics
+Score accumulation, attacking, and player health
+
+Casual games
+This game type often features mechanics such as card games, board games simple arcade style games and puzzles.
+
+Window in the Unity Editor allows you to view, sort, and organize all of the assets for the game?
+Project Window
+===
+The Project Window allows you to:
+Modify the file structure of assets
+
+To reconfigure the Unity Editor user interface:
+Drag windows by their tabs into new locations
+
+Which window allows parenting of GameObjects?
+Hierarchy
+
+A Prefab in the Unity Editor is:
+An asset type that stores a GameObject with components and properties
+
+Unity can import this transfer file format for models having meshes, bones, skin weights, and animation:
+FBX
+
+Which tool allows you to manually slice an image into multiple sprites?
+The Sprite Editor
+
+Acceptable formats for audio are:
+MP3, OGG, WAV, AIFF
+
+Modifying the organization of assets is done in the:
+Project Window
+
+The project window toolbar allows searching of assets by
+Label and Type
+
+The two script types supported in Unity are:
+C# and UnityScript
+
+The Specular property of a material:
+Controls the color and strength of reflection
+
+The Albedo of a material is defined as:
+The color of the material without any lighting data
+
+Smoothness
+Material Property: controls spreading of light on a microsurface detail
+
+To add a Box Collider to a GameObject using the top menu, choose:
+Components>Physics>Box Collider
+
+On a Light Component, a Culling Mask:
+Determines which layers are affected by the light
+
+This is a light cone shaped light, which spreads out as it gets further away from the source
+Spot light
+
+This shadow type casts shadows that approximate the natural fuzziness of real shadows due to emission area size and the bouncing of light
+Soft
+
+What type of light casts a shape on a wall or floor?
+Directional
+
+To darken the ambient occlusion in baked lighting:
+Increase the Ambient Occlusion amount
+
+EXR
+The type of file Lightmaps use to store data
+
+Curve Editor
+This view in the animation window shows animations as graphs:
+
+One way to apply an Animator Controller to a GameObject is:
+Drag from the Project window onto the GameObject in the Inspector
+
+Animator Controller
+Allows you to arrange and maintain a set of animations for a GameObject
+
+The default transition is based on:
+Exit Time
+
+Any state
+A state that allows transitions from any other state
+
+What sequence best describes how you would create a new transition?
+Right click on a state and choose Make Transition
+
+To create an animator controller:
+Right-click in the Project window and choose Create>Animator Controller
+
+float
+What data type must be used in the following code? ___ number = 8.0f;
+
+Public
+Which type of variable is accessible to other scripts?
+
+Group instructions
+A method is used to:
+
+Defines walkable surfaces for Nav Mesh Agents
+Which of the following best describes the function of a Nav Mesh?
+
+Defines the steepest angle that Nav Mesh Agents can walk up
+What does Max Slope do in navigation?
+
+Game Mechanics
+Score accumulation, attacking, and player health
+
+void Start()
+Which method does not return a value?
+
+Click on the Add Components button and choose Miscellaneous>Animator
+Which of the following sequences best describes how you would create an Animator component on an object?
+
+Input Manager
+In order to define new virtual axes, you need to configure the key mapping in the:
+
+Animator Component
+Dragging an Animator Controller onto a GameObject in the Inspector creates an:
+
+f
+A floating point variable is distinguished by what letter immediately following the number
+
+IsTrigger
+When enabled, which Collider property allows GameObjects to pass through the Collider?
+
+Emitter
+The Shape section of a particle system defines the geometry of the:
+
+Circle, Edge, Box, and Cone are examples of:
+Emitter Shapes
+
+Sub-emitter
+To create an effect showing multiple particles spawning from the originals, you would use a:
+
+To modify the volume of an audio clip, the clip must be applied to:
+An audio source component
+
+What is the effect applied to the Soundeffects group called?
+Flange
+
+Which option begins playing the sound as soon as the GameObject loads?
+Play on Awake
+
+Vector3(0)
+In this line of code, which of these does not set playerPosition to 0,0,0? Vector3 playerPosition = ???
+
+Create>Empty
+To create this placeholder for animation in the Animator Window, you would first right-click in any open area. Your next action would be to choose?
+
+Method
+A ??? executes a set of intructions and can either return a value or not return a value.
+
+AudioSource.Play
+What method is called when this button is clicked?
+
+Some of the available options for the Transition property of a button are:
+Sprite Swap and Color Tint
+
+In the image shown, that has caused the change in property names of the Rect Transform?
+Splitting the anchor
+
+Image
+In which UI component would you use a Sprite?
+
+Unity Cloud Build
+Android, Web and iOS are some of the supported platforms for:
+
+A source control repository
+In order to utilize Unity Cloud Build, your project must be synced to:
+
+Rewarded Ads cannot be skipped be default
+Differentiate between Rewarded and Simple Ads:
+
+Sprite
+An image for an Image Component must be imported as this type:
+
+Project ID
+Which identifier is used to link a project data feed to Unity Analytics?
+
+IsTrigger
+You check this box on a collider component to make it check to see when something Enters the bounding box of the collider
+
+Point Light
+A spherical light emitting in all directions
+
+Skybox
+This contributes to the ambient light and can give the appearance of clouds or atmosphere
+
+
+
+
+
+=========================
+Grâce aux fonctions amies, on pourra accéder aux membres privés d’une classe, autrement que par le biais de ses fonctions membres.
+
+Il existe plusieurs situations d’amitié:
+
+- Une fonction indépendante est amie d’une ou de plusieurs classes.
+- Une ou plusieurs fonctions membres d’une classe sont amie d’une autre classe.
+
+I- FONCTION INDEPENDANTE AMIE D’UNE CLASSE
+
+Exemple (à tester) et exercice VI-1:
+
+Dans l’exemple ci-dessous, la fonction coïncide est AMIE de la classe point. C’est une fonction ordinaire qui peut manipuler les membres privés de la classe point.
+
+#include <iostream.h>//fonction independante, amie d'une classe
+#include <conio.h>
+class point
+{
+int x,y;
+public:
+point(int abs=0,int ord=0){x=abs;y=ord;}
+
+friend int coincide(point,point); //declaration de la fonction amie
+};
+
+int coincide(point p,point q)
+{if((p.x==q.x)&&(p.y==q.y))return 1;else return 0;}
+
+void main()
+{point a(4,0),b(4),c;
+if(coincide(a,b))cout<<"a coincide avec b\n";
+else cout<<"a est different de b\n";
+if(coincide(a,c))cout<<"a coincide avec c\n";
+else cout<<"a est different de c\n";
+getch() ;}
+
+Exercice VI-2:
+
+Reprendre l’exercice III-8 dans lequel une fonction membre de la classe vecteur permettait de calculer le déterminant de deux vecteurs:
+Définir cette fois-ci une fonction indépendante AMIE de la classe vecteur.
+II- LES AUTRES SITUATIONS D’AMITIE
+
+1- Dans la situtation ci-dessous, la fonction fm_de_titi, fonction membre de la classe TITI, a accès aux membres privés de la classe TOTO:
+
+class TOTO
+{
+// partie privée
+........
+// partie publique
+friend int TITI::fm_de_titi(char, TOTO);
+};
+
+class TITI
+{
+........
+int fm_de_titi(char, TOTO);
+};
+
+int TITI::fm_de_titi(char c, TOTO t)
+{ ... } // on pourra trouver ici une invocation des membres privés de l’objet t
+
+Si toutes les fonctions membres de la classe TITI étaient amies de la classe TOTO, on déclarerait directement dans la partie publique de la classe TOTO: friend class TITI;
+
+
+2- Dans la situation ci-dessous, la fonction f_anonyme a accès aux membres privés des classes TOTO et TITI:
+
+envoyer un message privé  Omar :
+nb posts:290
+nb discussions:42
+inscrit le :23-01-2015
+le 28-01-2015 à 10:52:20
+class TOTO
+{
+// partie privée
+........
+// partie publique
+friend void f_anonyme(TOTO, TITI);
+};
+
+class TITI
+{
+// partie privée
+........
+// partie publique
+friend void f_anonyme(TOTO, TITI);
+};
+
+void f_anonyme(TOTO to, TITI ti)
+{ ... } // on pourra trouver ici une invocation des membres privés des objets to et ti.
+
+envoyer un message privé  Omar :
+nb posts:290
+nb discussions:42
+inscrit le :23-01-2015
+le 28-01-2015 à 10:52:33
+III- APPLICATION A LA SURDEFINITION DES OPERATEURS
+
+Exemple (à tester) et exercice VI-3:
+
+On reprend l’exemple V-1 permettant de surdéfinir l’opérateur + pour l’addition de 2 vecteurs.
+On crée, cette fois-ci, une fonction AMIE de la classe vecteur.
+
+#include <iostream.h>
+#include <conio.h>
+// Classe vecteur
+// Surdefinition de l'operateur + par une fonction AMIE
+class vecteur
+{float x,y;
+public: vecteur(float,float);
+void affiche();
+friend vecteur operator+(vecteur, vecteur);
+};
+
+vecteur::vecteur(float abs =0,float ord = 0)
+{x=abs;y=ord;}
+
+void vecteur::affiche()
+{cout<<"x = "<<x<<" y = "<<y<<"\n";}
+
+vecteur operator+(vecteur v, vecteur w)
+{ vecteur res;
+res.x = v.x + w.x;
+res.y = v.y + w.y;
+return res;}
+
+void main()
+{vecteur a(2,6),b(4,8),c,d;
+c = a + b; c.affiche();
+d = a + b + c; d.affiche();getch() ;}
+
+Exercice VI-4:
+
+Reprendre l’exercice VI-1: redéfinir l’opérateur == correspondant à la fonction coïncide.
+
+Exercice VI-5:
+
+Reprendre les exercices V-2, V-3 et V-4: En utilisant la propriété de surdéfinition des fonctions du C++, créer
+- une fonction membre de la classe vecteur de prototype
+float vecteur::operator*(vecteur); qui retourne le produit scalaire de 2 vecteurs
+- une fonction membre de la classe vecteur de prototype
+vecteur vecteur::operator*(float); qui retourne le vecteur produit d’un vecteur et d’un réel
+(donne une signification à v2 = v1 * h;)
+- une fonction AMIE de la classe vecteur de prototype
+vecteur operator*(float, vecteur); qui retourne le vecteur produit d’un réel et d’un vecteur
+(donne une signification à v2 = h * v1;)
+
+On doit donc pouvoir écrire dans le programme:
+
+vecteur v1, v2, v3, v4;
+float h, p;
+p = v1 * v2;
+v3 = h * v1;
+v4 = v1 * h;
+
+Remarque:
+On aurait pu remplacer la fonction membre de prototype vecteur vecteur::operator*(float);
+par une fonction AMIE de prototype vecteur operator*(vecteur, float);
+
+Exercice VI-6:
+
+Etudier le listing du fichier d’en-tête complex.h fourni au chapitre V et justifier tous les prototypes des fonctions.
+envoyer un message privé  Omar :
+nb posts:290
+nb discussions:42
+inscrit le :23-01-2015
+le 28-01-2015 à 10:52:45
+IV- CORRIGE DES EXERCICES
+
+Exercice VI-2:
+
+#include <iostream.h>
+#include <conio.h>
+// Classe vecteur
+// Fonction AMIE permettant de calculer le déterminant de 2 vecteurs
+class vecteur
+{float x,y;
+public: vecteur(float,float);
+void affiche();
+friend float det(vecteur, vecteur);
+};
+
+vecteur::vecteur(float abs =0.,float ord = 0.)
+{x=abs;y=ord;}
+
+void vecteur::affiche()
+{cout<<"x = "<<x<<" y = "<<y<<"\n";}
+
+float det(vecteur a, vecteur b) // la fonction AMIE peut manipuler
+{ // les quantités b.x, b.y, a.x, a.y
+float res;
+res = a.x * b.y - a.y * b.x;
+return res;
+}
+void main()
+{vecteur u(2,6),v(4,8);
+u.affiche(); v.affiche();
+cout <<"Determinant de (u,v) = "<<det(u,v)<<"\n";
+cout <<"Determinant de (v,u) = "<<det(v,u)<<"\n";getch() ;}
+
+Exercice VI-4:
+
+#include <iostream.h>//Surdéfinition de l'opérateur ==
+class point
+{
+int x,y;
+public:
+point(int abs=0,int ord=0){x=abs;y=ord;}
+friend int operator==(point,point); //declaration de la fonction amie
+};
+
+int operator==(point p,point q)
+{if((p.x==q.x)&&(p.y==q.y))return 1;else return 0;}
+
+void main()
+{
+point a(4,0),b(4),c;
+if(a==b)cout<<"a coincide avec b\n";
+else cout<<"a est different de b\n";
+if(a==c)cout<<"a coincide avec c\n";
+else cout<<"a est different de c\n";
+getch() ;}
+
+Publicité
+
+Exercice VI-5:
+
+#include <iostream.h>
+#include <conio.h>
+
+class vecteur
+{float x,y;
+public: vecteur(float,float);
+void affiche();
+vecteur operator+(vecteur); // surdefinition de l'operateur +
+float operator*(vecteur); // surdefinition de l'operateur
+// produit scalaire
+vecteur operator*(float); // surdefinition de l'homotethie
+friend vecteur operator*(float,vecteur);//surdefinition de l'homotethie
+};
+
+vecteur::vecteur(float abs =0,float ord = 0)
+{x=abs;y=ord;}
+void vecteur::affiche()
+{cout<<"x = "<<x<<" y = "<<y<<"\n";}
+
+vecteur vecteur::operator+(vecteur v)
+{vecteur res; res.x = v.x + x; res.y = v.y + y; return res;}
+
+float vecteur::operator*(vecteur v)
+{float res;res = v.x * x + v.y * y;return res;}
+
+vecteur vecteur::operator*(float f)
+{vecteur res; res.x = f*x; res.y = f*y; return res;}
+
+vecteur operator*(float f, vecteur v)
+{vecteur res; res.x = f*v.x; res.y = f*v.y; return res;}
+
+void main()
+{vecteur a(2,6),b(4,8),c,d;
+float p,h=2.0;
+p = a * b;
+cout<<p<<"\n";
+c = h * a;
+c.affiche();
+d = a * h;
+d.affiche();
+getch() ;}
+==================
+Écrivez la réponse à ces 5 questions
+The file path of the selected asset
+
+LA RÉPONSE
+The breadcrumb trailing the project window shows:
+The current placement of objects in the scene and hierarchy
+INCORRECT
+Inspecteur
+LA RÉPONSE
+Saving a scene saves:
+C# and UnityScript
+INCORRECT
+scénario
+LA RÉPONSE
+The two script types supported in Unity are:
+Which of the following best describes the function of a Nav Mesh?
+INCORRECT
+Caméra
+LA RÉPONSE
+Defines walkable surfaces for Nav Mesh Agents
+What does Max Slope do in navigation?
+INCORRECT
+Souris
+LA RÉPONSE
+Defines the steepest angle that Nav Mesh Agents can walk up
+Associez la bonne réponse à chacune de ces 5 questions
+EXR
+CORRECT
+B. The type of file Lightmaps use to store data
+A scene starts
+CORRECT
+Et .The Awake method is called when...
+Baking
+CORRECT
+D. The process of creating a NavMesh from level geometry marked as Navigation Static is called:
+void Start()
+CORRECT
+C. Which method does not return a value?
+The Albedo of a material is defined as:
+CORRECT
+A .The color of the material without any lighting data
+The color of the material without any lighting data
+The type of file Lightmaps use to store data
+Which method does not return a value?
+The process of creating a NavMesh from level geometry marked as Navigation Static is called:
+The Awake method is called when...
+5 questions à choix multiple
+What is called when you pre-calculate lighting and shading instead of doing it real time
+
+GetComponent
+
+Light Baking
+
+Casual games
+
+Curve Editor
+Exit Time
+
+The default transition is based on:
+
+The Specular property of a material:
+
+The role of a raycast is to:
+
+This is a light cone shaped light, which spreads out as it gets further away from the source
+Allows you to arrange and maintain a set of animations for a GameObject
+
+Animator Controller
+
+Animation Record
+
+Computer-controlled
+
+Hierarchy Window
+In a Rigidbody component, this determines the air resistance from forces affecting the GameObject
+
+float
+
+Drag
+
+Baking
+
+Image
+The Shape section of a particle system defines the geometry of the:
+
+Sprite
+
+EXR
+
+Curve Editor
+
+Emitter
+5 questions vrai/faux
+Which identifier is used to link a project data feed to Unity Analytics? → Project ID
+CORRECT
+Vrai
+Sprite Swap and Color Tint → Some of the available options for the Transition property of a button are:
+CORRECT
+Vrai
+This view in the animation window allows multiple objects' keys to be shown on horizontal tracks: → Dope Sheet
+CORRECT
+Vrai
+A spherical light emitting in all directions → Point Light
+INCORRECT
+Faux
+LA RÉPONSE
+Vrai
+Sample baked lighting at specific points in a scene → Light Probes
+CORRECT
+VraiS

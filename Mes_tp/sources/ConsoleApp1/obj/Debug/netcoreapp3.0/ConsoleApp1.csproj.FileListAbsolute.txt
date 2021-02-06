@@ -1,0 +1,11 @@
+C:\Mes_tp\sources\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Mes_tp\sources\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Mes_tp\sources\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Mes_tp\sources\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Mes_tp\sources\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Mes_tp\sources\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Mes_tp\sources\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Mes_tp\sources\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Mes_tp\sources\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Mes_tp\sources\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Mes_tp\sources\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb

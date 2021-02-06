@@ -1,0 +1,279 @@
+﻿Le fil d'Ariane à la fin de la fenêtre du projet montre:
+Le chemin du fichier de l'actif sélectionné
+
+Traîne
+Dans un composant Rigidbody, cela détermine la résistance de l'air aux forces affectant le GameObject
+
+Zones de réverbération
+Pour simuler l'écho et la distorsion d'un type d'environnement sonore tel qu'une grotte, une arène ou une forêt, lequel des composants audio suivants serait la meilleure option à utiliser?
+
+Directeur artistique
+Dans un studio de jeu, la personne est responsable de s'assurer que l'apparence générale est cohérente
+
+Accord de non-divulgation
+Les informations de sortie éventuelles sur le travail dans un studio sont souvent régies par ce type de contrat légal
+
+Identifiez l'élément d'interface utilisateur utilisé pour modifier la taille de l'icône dans la fenêtre d'affichage du projet
+Le curseur dans le coin inférieur droit de la fenêtre de projet
+
+L'enregistrement d'une scène enregistre:
+Le placement actuel des objets dans la scène et la hiérarchie
+
+Ordinaire
+Cette propriété de matériau fait apparaître et s'éclairer les polygones comme s'ils avaient des détails de microsurface:
+
+Utiliser la gravité
+Dans un Rigidbody, cela permet aux objets de tomber:
+
+Le rôle d'un raycast est de:
+Localiser les collisionneurs le long du trajet d'un rayon
+
+Fenêtre Hiérarchie
+Fenêtre qui permet la parentalité de GameObjects:
+
+Sélection de Générer des UV Lightmap dans les paramètres d'importation d'un modèle:
+Crée un jeu supplémentaire de coordonnées UV des données Lightmap
+
+Sondes lumineuses
+Échantillon d'éclairage cuit à des points spécifiques d'une scène
+
+Lightmaps
+Stocker les données d'éclairage qui ont été précalculées
+
+Fiche d'expo
+Cette vue dans la fenêtre d'animation permet d'afficher les clés de plusieurs objets sur des pistes horizontales:
+
+Enregistrement d'animation
+Les commandes de lecture affichées en rouge indiquent que l'éditeur Unity est dans ce mode:
+
+Clips d'animation
+Comment les animations sont stockées dans le projet Unity
+
+Cuisson
+Le processus de création d'un NavMesh à partir d'une géométrie de niveau marquée comme navigation statique est appelé:
+
+... éviter les collisions avec d'autres agents de maillage de navigation et la géométrie
+Éviter les obstacles est la façon dont les Nav Mesh Agents ...
+
+Une scène commence
+La méthode Awake est appelée lorsque ...
+
+Contrôlé par ordinateur
+Dans la conception du jeu, les personnages non-joueurs sont:
+
+Couleur au cours de la vie
+
+Dans le système de particules de fumée, quelle propriété est utilisée pour passer du noir dense au gris semi-transparent et enfin au blanc?
+
+Le volume
+Quelle option d'émission depuis permet aux particules de provenir de n'importe où dans la géométrie de l'émetteur?
+
+GetComponent
+Quelle méthode obtient une référence à un composant sur un GameObject?
+
+Scaler de toile
+Quel composant permet au canevas de se redimensionner avec un affichage?
+
+Lumière de zone
+Lumière rétangulaire utilisée pour la cuisson uniquement; régi par la largeur et la hauteur
+
+Cuisson légère
+Ce qu'on appelle lorsque vous pré-calculez l'éclairage et l'ombrage au lieu de le faire en temps réel
+
+Lumière directionnelle
+Il s'agit d'une source de lumière parallèle infiniment large, qui est généralement utilisée pour simuler la lumière du soleil
+
+Corps rigide
+Si un objet de jeu a ce composant, il tombera avec gravité
+
+Art conceptuel
+ Fournit un point fédérateur pour la direction artistique
+
+Mécanique de jeu
+Accumulation de score, attaque et santé du joueur
+
+Jeux occasionnels
+Ce type de jeu comporte souvent des mécanismes tels que des jeux de cartes, des jeux de société, des jeux de style arcade simples et des puzzles.
+
+La fenêtre de l'éditeur Unity vous permet d'afficher, de trier et d'organiser toutes les ressources du jeu?
+Fenêtre de projet
+
+La fenêtre de projet vous permet de:
+Modifier la structure des fichiers des actifs
+
+Pour reconfigurer l'interface utilisateur de l'éditeur Unity:
+Faites glisser les fenêtres par leurs onglets vers de nouveaux emplacements
+
+Quelle fenêtre permet la parentalité de GameObjects?
+Hiérarchie
+
+Un préfabriqué dans l'éditeur Unity est:
+Un type d'actif qui stocke un GameObject avec des composants et des propriétés
+
+Unity peut importer ce format de fichier de transfert pour les modèles comportant des maillages, des os, des épaisseurs de peau et une animation:
+FBX
+
+Quel outil vous permet de découper manuellement une image en plusieurs sprites?
+L'éditeur de sprite
+
+Les formats audio acceptables sont:
+MP3, OGG, WAV, AIFF
+
+La modification de l'organisation des actifs se fait dans:
+Fenêtre de projet
+
+La barre d'outils de la fenêtre de projet permet de rechercher des actifs par
+Étiquette et type
+
+Les deux types de scripts pris en charge dans Unity sont:
+C # et UnityScript
+
+La propriété spéculaire d'un matériau:
+Contrôle la couleur et la force de la réflexion
+
+L'albédo d'un matériau est défini comme:
+La couleur du matériau sans aucune donnée d'éclairage
+
+Douceur
+Propriété du matériau: contrôle la diffusion de la lumière sur un détail de microsurface
+
+Pour ajouter un Box Collider à un GameObject à l'aide du menu supérieur, choisissez:
+Composants> Physique> Box Collider
+
+Sur un composant léger, un masque d'élimination:
+Détermine les couches affectées par la lumière
+
+Il s'agit d'une lumière en forme de cône lumineux, qui se propage à mesure qu'elle s'éloigne de la source
+Projecteur
+
+Ce type d'ombre projette des ombres qui se rapprochent du flou naturel des ombres réelles en raison de la taille de la zone d'émission et du rebond de la lumière
+Doux
+
+Quel type de lumière jette une forme sur un mur ou un sol?
+Directionnel
+
+Pour assombrir l'occlusion ambiante dans un éclairage cuit:
+Augmentez la quantité d'occlusion ambiante
+
+EXR
+Le type de fichier que Lightmaps utilise pour stocker des données
+
+Editeur de courbes
+Cette vue de la fenêtre d'animation montre les animations sous forme de graphiques:
+
+Une façon d'appliquer un contrôleur Animator à un GameObject est:
+Faites glisser de la fenêtre Projet sur le GameObject dans l'inspecteur
+
+Contrôleur d'animateur
+Vous permet d'organiser et de maintenir un ensemble d'animations pour un GameObject
+
+La transition par défaut est basée sur:
+Heure de sortie
+
+Tout état
+Un état qui permet des transitions depuis n'importe quel autre état
+
+Quelle séquence décrit le mieux la façon dont vous créeriez une nouvelle transition?
+Faites un clic droit sur un état et choisissez Faire une transition
+
+Pour créer un contrôleur d'animateur:
+Cliquez avec le bouton droit dans la fenêtre Projet et choisissez Créer> Contrôleur Animator
+
+flotte
+Quel type de données doit être utilisé dans le code suivant? ___ nombre = 8,0f;
+
+Publique
+Quel type de variable est accessible aux autres scripts?
+
+Instructions de groupe
+Une méthode est utilisée pour:
+
+Définit les surfaces accessibles à pied pour les agents de maillage Nav
+Lequel des énoncés suivants décrit le mieux la fonction d'un Nav Mesh?
+
+Définit l'angle le plus raide que les agents Nav Mesh peuvent monter
+Que fait Max Slope en navigation?
+
+Mécanique de jeu
+Accumulation de score, attaque et santé du joueur
+
+void Start ()
+Quelle méthode ne renvoie pas de valeur?
+
+Cliquez sur le bouton Ajouter des composants et choisissez Divers> Animateur
+Laquelle des séquences suivantes décrit le mieux la manière dont vous créeriez un composant Animator sur un objet?
+
+Gestionnaire d'entrée
+Afin de définir de nouveaux axes virtuels, vous devez configurer le mappage de touches dans:
+
+Composant Animator
+Faire glisser un contrôleur Animator sur un GameObject dans l'inspecteur crée un:
+
+F
+Une variable à virgule flottante se distingue par la lettre suivant immédiatement le nombre
+
+IsTrigger
+Lorsqu'elle est activée, quelle propriété Collider permet à GameObjects de passer par le Collider?
+
+Émetteur
+La section Shape d'un système de particules définit la géométrie du:
+
+Circle, Edge, Box et Cone sont des exemples de:
+Formes d'émetteur
+
+Sous-émetteur
+Pour créer un effet montrant plusieurs particules générées à partir des originaux, vous utiliseriez:
+
+Pour modifier le volume d'un clip audio, le clip doit être appliqué à:
+Un composant source audio
+
+Comment s'appelle l'effet appliqué au groupe Soundeffects?
+Bride
+
+Quelle option commence à jouer le son dès que le GameObject se charge?
+Jouez sur Awake
+
+Vecteur3 (0)
+Dans cette ligne de code, laquelle de celles-ci ne définit pas playerPosition sur 0,0,0? Vector3 playerPosition = ???
+
+Créer> Vide
+Pour créer cet espace réservé pour l'animation dans la fenêtre de l'animateur, vous devez d'abord cliquer avec le bouton droit de la souris dans n'importe quelle zone ouverte. Votre prochaine action serait de choisir?
+
+Méthode
+UNE ??? exécute un ensemble d'instructions et peut renvoyer une valeur ou ne pas renvoyer une valeur.
+
+AudioSource.Play
+Quelle méthode est appelée lorsque l'utilisateur clique sur ce bouton?
+
+Certaines des options disponibles pour la propriété Transition d'un bouton sont:
+Sprite Swap et teinte de couleur
+
+Dans l'image affichée, cela a provoqué le changement des noms de propriété de Rect Transform?
+Fendre l'ancre
+
+Image
+Dans quel composant d'interface utilisateur utiliseriez-vous un Sprite?
+
+Construire Unity Cloud
+Android, Web et iOS font partie des plates-formes prises en charge pour:
+
+Un référentiel de contrôle de source
+Pour utiliser Unity Cloud Build, votre projet doit être synchronisé avec:
+
+Les annonces avec récompense ne peuvent pas être ignorées par défaut
+Faites la différence entre les annonces avec récompense et les annonces simples:
+
+Lutin
+Une image pour un composant d'image doit être importée sous ce type:
+
+ID du projet
+Quel identifiant est utilisé pour associer un flux de données de projet à Unity Analytics?
+
+IsTrigger
+Vous cochez cette case sur un composant de collisionneur pour le faire vérifier pour voir quand quelque chose entre dans la boîte englobante du collisionneur
+
+Lumière ponctuelle
+Une lumière sphérique émettant dans toutes les directions
+
+Skybox
+Cela contribue à la lumière ambiante et peut donner l'apparence de nuages ​​ou d'atmosphère

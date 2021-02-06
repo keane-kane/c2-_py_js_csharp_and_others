@@ -1,0 +1,21 @@
+import math
+print("Hello World")
+print("Aujourd'hui")
+print("C'est \"Dommage !\"")
+print("Hum \\o/")
+r = float(input())
+v = (4/3)* math.pi *  r**3
+print(v)
+x = int(input())
+y = int(input())
+z = float(input())
+t = float(input())
+
+print(x-y)
+print(x+z)
+print(z+t)
+print(x*z)
+print(x/2)
+print(x/(y+1))
+print((x+y)*z/(4*x))
+print(x**(-1/2))

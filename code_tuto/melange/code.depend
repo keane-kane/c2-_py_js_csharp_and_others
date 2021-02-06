@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1564787413 source:c:\code\header.c
+	<stdio.h>
+	"header.h"
+
+1564786017 c:\code\header.h
+
+1564787536 source:c:\code\main.c
+	<stdio.h>
+	"header.h"
+
+1564844738 source:c:\code\s13.c
+	<stdio.h>
+
